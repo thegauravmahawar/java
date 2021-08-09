@@ -2,4 +2,4 @@
 
 ## Topics
 
-- [Java Memory Management](java-memory-management)
+- [Memory Management](memory-management)
